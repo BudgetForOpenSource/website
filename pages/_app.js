@@ -702,7 +702,6 @@ const MyApp = ({ Component, pageProps }) => {
           h1,
           h2 {
             padding-bottom: 0.3em;
-            border-bottom: 1px solid #eaecef;
           }
 
           h2 {
