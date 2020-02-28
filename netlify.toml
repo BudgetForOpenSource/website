@@ -5,3 +5,21 @@
   NODE_VERSION = "10"
   YARN_VERSION = "1.22.0"
   YARN_FLAGS = "--frozen-lockfile"
+
+[[redirects]]
+  from = "https://budgetforopensource.com"
+  to = "https://budgetforopensource.org"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.budgetforopensource.com"
+  to = "https://budgetforopensource.org"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.budgetforopensource.org"
+  to = "https://budgetforopensource.org"
+  status = 301
+  force = true
