@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "next",
+    "build": "next build && next export"
+  },
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@mdx-js/loader": "^1.5.7",
