@@ -7,6 +7,11 @@ import withGA from "next-ga";
 const MyApp = ({ Component, pageProps }) => {
   return (
     <Fragment>
+      <Global
+        styles={{
+          body: { margin: 0 }
+        }}
+      />
       <div
         // https://github.com/sindresorhus/github-markdown-css
         css={css`
@@ -791,7 +796,6 @@ const MyApp = ({ Component, pageProps }) => {
           img {
             max-width: 100%;
             box-sizing: initial;
-            background-color: #fff;
           }
 
           img[align="right"] {
