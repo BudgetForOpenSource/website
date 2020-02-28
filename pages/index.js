@@ -1,20 +1,21 @@
 /** @jsx jsx */
-import { jsx, css } from "@emotion/core";
-import Head from "next/head";
-import { Fragment } from "react";
-import README from "../README.md";
+import { jsx, css } from '@emotion/core';
+import Head from 'next/head';
+import { Fragment } from 'react';
+import README from '../README.md';
 
-const title = "Budget for Open Source";
+const title = 'Budget for Open Source';
 const description =
   "We're asking companies that employ engineers to add a line item to their budget for open source, starting with just $100 per engineer per year.";
-const image = "/ogimage.png";
+const url = 'https://budgetforopensource.org';
+const image = `${url}/ogimage.png`;
 
 export default () => (
   <Fragment>
     <Head>
       <title>{title}</title>
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://budgetforopensource.org" />
+      <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
       <meta property="og:image" content={image} />
       <meta property="og:description" content={description} />
@@ -24,9 +25,9 @@ export default () => (
     </Head>
     <div
       css={{
-        display: "flex",
-        justifyContent: "center",
-        backgroundColor: "#e6eee6"
+        display: 'flex',
+        justifyContent: 'center',
+        backgroundColor: '#e6eee6'
       }}
     >
       <img
@@ -37,10 +38,10 @@ export default () => (
         }}
       />
     </div>
-    <section css={{ display: "flex", justifyContent: "center" }}>
+    <section css={{ display: 'flex', justifyContent: 'center' }}>
       <div
         css={{
-          width: "100%",
+          width: '100%',
           padding: 24,
           maxWidth: 800,
           minWidth: 0
