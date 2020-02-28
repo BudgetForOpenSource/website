@@ -29,7 +29,13 @@ export default () => (
         backgroundColor: "#e6eee6"
       }}
     >
-      <img src="/assets/logo.png" css={{ width: 260 }} />
+      <img
+        src="/assets/logo.png"
+        css={{
+          width: 160,
+          height: "auto"
+        }}
+      />
     </div>
     <section css={{ display: "flex", justifyContent: "center" }}>
       <div
