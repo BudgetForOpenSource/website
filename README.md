@@ -18,6 +18,6 @@ Below is a list of companies that have committed line items on their budgets to 
 
 If your company has a budget of \$100 or more per engineer per year, you qualify for the list. Please submit a PR to be added.
 
-| ~Size | GitHub Org | OpenCollective |
-|-------|-------------------------------------------|--------------------------------------|
-| 1-50 | [@thinkmill](https://github.com/Thinkmill) | https://opencollective.com/thinkmill |
+| Logo |  ~Size | GitHub Org | OpenCollective |
+|------| -------|-------------------------------------------|--------------------------------------|
+|<img alt="ThinkMill" src="https://pbs.twimg.com/profile_images/1040483004332691459/639Wu-Y-_400x400.jpg" width="32" /> | 1-50 | [@thinkmill](https://github.com/Thinkmill) | https://opencollective.com/thinkmill |
