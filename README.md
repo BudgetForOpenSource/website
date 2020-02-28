@@ -16,7 +16,7 @@ This initiative was launched at [ReactConfAU 2020](https://reactconfau.com/) in 
 
 Below is a list of companies that have committed line items on their budgets to support open source.
 
-If your company has a budget of \$100 or more per engineer per year, you qualify for the list. Please submit a PR to be added.
+If your company has a budget of \$100 or more per engineer per year, you qualify for the list. [Please submit a PR to be added](https://github.com/BudgetForOpenSource/website/edit/master/README.md).
 
 | Company                               | Employees | GitHub Org                                 | OpenCollective                       |
 | ------------------------------------- | --------- | ------------------------------------------ | ------------------------------------ |
