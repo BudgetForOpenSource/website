@@ -701,6 +701,7 @@ const MyApp = ({ Component, pageProps }) => {
 
           h1,
           h2 {
+            color: #5b6c5b;
             padding-bottom: 0.3em;
           }
 
