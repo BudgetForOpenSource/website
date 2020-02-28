@@ -1,0 +1,14 @@
+{
+  "name": "budgetforopensource-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@mdx-js/loader": "^1.5.7",
+    "@next/mdx": "^9.2.2",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
