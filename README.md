@@ -21,3 +21,7 @@ If your company has a budget of \$100 or more per engineer per year, you qualify
 | Company                               | Employees | GitHub Org                                 | OpenCollective                       |
 | ------------------------------------- | --------- | ------------------------------------------ | ------------------------------------ |
 | [Thinkmill](https://thinkmill.com.au) | 1-50      | [@Thinkmill](https://github.com/Thinkmill) | https://opencollective.com/thinkmill |
+
+---
+
+The Budget for Open Source website is open source at https://github.com/BudgetForOpenSource/website.
