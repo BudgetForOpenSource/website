@@ -8,7 +8,7 @@ const title = 'Budget for Open Source'
 const description =
   "We're asking companies that employ engineers to add a line item to their budget for open source, starting with just $100 per engineer per year."
 const url = 'https://budgetforopensource.org'
-const image = `${url}/ogimage.png'
+const image = `${url}/ogimage.png`
 
 export default () => (
   <Fragment>
