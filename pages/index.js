@@ -33,7 +33,7 @@ export default () => (
         src="/assets/logo.png"
         css={{
           width: 160,
-          height: "auto"
+          height: 160
         }}
       />
     </div>
