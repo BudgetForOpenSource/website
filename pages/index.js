@@ -1,12 +1,29 @@
 /** @jsx jsx */
-import { jsx, css } from "@emotion/core";
-import { Fragment } from "react";
-import README from "../README.md";
+import { jsx, css } from '@emotion/core'
+import Head from 'next/head'
+import { Fragment } from 'react'
+import README from '../README.md'
+
+const title = 'Budget for Open Source'
+const description =
+  "We're asking companies that employ engineers to add a line item to their budget for open source, starting with just $100 per engineer per year."
+const image = '/ogimage.png'
 
 export default () => (
   <Fragment>
-    <section css={{ display: "flex", justifyContent: "center" }}>
-      <div css={{ width: "100%", maxWidth: 800, minWidth: 0 }}>
+    <Head>
+      <title>{title}</title>
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://budgetforopensource.org" />
+      <meta property="og:title" content={title} />
+      <meta property="og:image" content={image} />
+      <meta property="og:description" content={description} />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:image" content={image} />
+    </Head>
+    <section css={{ display: 'flex', justifyContent: 'center' }}>
+      <div css={{ width: '100%', maxWidth: 800, minWidth: 0 }}>
         <div
           // https://github.com/sindresorhus/github-markdown-css
           css={css`
@@ -64,7 +81,7 @@ export default () => (
             h6:hover .anchor .octicon-link:before {
               width: 16px;
               height: 16px;
-              content: " ";
+              content: ' ';
               display: inline-block;
               background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true'%3E%3Cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z'%3E%3C/path%3E%3C/svg%3E");
             }
@@ -132,7 +149,7 @@ export default () => (
               overflow: visible;
             }
 
-            [type="checkbox"] {
+            [type='checkbox'] {
               box-sizing: border-box;
               padding: 0;
             }
@@ -172,7 +189,7 @@ export default () => (
             hr:after,
             hr:before {
               display: table;
-              content: "";
+              content: '';
             }
 
             hr:after {
@@ -462,7 +479,7 @@ export default () => (
             }
 
             .pl-c2:before {
-              content: "^M";
+              content: '^M';
             }
 
             .pl-sr .pl-cce {
@@ -624,7 +641,7 @@ export default () => (
             .markdown-body:after,
             .markdown-body:before {
               display: table;
-              content: "";
+              content: '';
             }
 
             .markdown-body:after {
@@ -794,11 +811,11 @@ export default () => (
               background-color: #fff;
             }
 
-            img[align="right"] {
+            img[align='right'] {
               padding-left: 20px;
             }
 
-            img[align="left"] {
+            img[align='left'] {
               padding-right: 20px;
             }
 
@@ -894,62 +911,62 @@ export default () => (
               background: #ffea7f;
             }
 
-            .tab-size[data-tab-size="1"] {
+            .tab-size[data-tab-size='1'] {
               -moz-tab-size: 1;
               tab-size: 1;
             }
 
-            .tab-size[data-tab-size="2"] {
+            .tab-size[data-tab-size='2'] {
               -moz-tab-size: 2;
               tab-size: 2;
             }
 
-            .tab-size[data-tab-size="3"] {
+            .tab-size[data-tab-size='3'] {
               -moz-tab-size: 3;
               tab-size: 3;
             }
 
-            .tab-size[data-tab-size="4"] {
+            .tab-size[data-tab-size='4'] {
               -moz-tab-size: 4;
               tab-size: 4;
             }
 
-            .tab-size[data-tab-size="5"] {
+            .tab-size[data-tab-size='5'] {
               -moz-tab-size: 5;
               tab-size: 5;
             }
 
-            .tab-size[data-tab-size="6"] {
+            .tab-size[data-tab-size='6'] {
               -moz-tab-size: 6;
               tab-size: 6;
             }
 
-            .tab-size[data-tab-size="7"] {
+            .tab-size[data-tab-size='7'] {
               -moz-tab-size: 7;
               tab-size: 7;
             }
 
-            .tab-size[data-tab-size="8"] {
+            .tab-size[data-tab-size='8'] {
               -moz-tab-size: 8;
               tab-size: 8;
             }
 
-            .tab-size[data-tab-size="9"] {
+            .tab-size[data-tab-size='9'] {
               -moz-tab-size: 9;
               tab-size: 9;
             }
 
-            .tab-size[data-tab-size="10"] {
+            .tab-size[data-tab-size='10'] {
               -moz-tab-size: 10;
               tab-size: 10;
             }
 
-            .tab-size[data-tab-size="11"] {
+            .tab-size[data-tab-size='11'] {
               -moz-tab-size: 11;
               tab-size: 11;
             }
 
-            .tab-size[data-tab-size="12"] {
+            .tab-size[data-tab-size='12'] {
               -moz-tab-size: 12;
               tab-size: 12;
             }
@@ -975,4 +992,4 @@ export default () => (
       </div>
     </section>
   </Fragment>
-);
+)
