@@ -16,7 +16,7 @@ This initiative was launched at ReactConfAU 2020 in a talk by @Jed Watson.
 
 Below is a list of companies that have committed line items on their budgets to support open source.
 
-If your company has a budget of \$100 or more per engineer per year, or you meaningfully contribute in other ways to open source, you also qualify for the list. Please submit a PR to be added.
+If your company has a budget of \$100 or more per engineer per year, you qualify for the list. Please submit a PR to be added.
 
 ---
 
@@ -28,12 +28,4 @@ Dev size, github, OC profile (if have one)
 
 ## Thinkmill
 
-1-50, GitHub, Open Collective
-
-## Facebook
-
-\>1,000, GitHub, Open Collective
-
-## AirBnB
-
-\>1,000, GitHub, Open Collective
+1-50, [GitHub](https://github.com/Thinkmill), [Open Collective](https://opencollective.com/thinkmill)
