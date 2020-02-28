@@ -10,7 +10,7 @@ Companies readily pay for things like lawyers, insurance, hosting, free lunches,
 
 If we can get just 1% of professional software engineers to have a budget like this, we can make a meaningful dent in the sustainability of open source software.
 
----
+## Supporting Organizations
 
 This initiative was launched at [ReactConfAU 2020](https://reactconfau.com/) in a talk by [@jedwatson](https://twitter.com/jedwatson).
 
