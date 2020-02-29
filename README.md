@@ -1,8 +1,8 @@
 # Budget for Open Source
 
-Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful of individuals. Maintainer burnout is [real and well documented](#).
+Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful of individuals. Maintainer burnout is [real and well documented](https://www.google.com/search?q=open+source+burnout).
 
-This is a tragedy of the commons – that is, many people benefit but none pay for it.
+This is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) – that is, many people benefit but none pay for it.
 
 We believe there is a simple first step that we can take to change this.
 
