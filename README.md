@@ -34,6 +34,7 @@ Below is a list of companies and teams that have committed line items on their b
 | Company / Team | Description                 | Engineers | GitHub org                                 | OpenCollective                       |
 |----------------|-----------------------------|-----------|--------------------------------------------|--------------------------------------|
 | Thinkmill       | $100 per engineer, per year | 1-50      | [@Thinkmill](https://github.com/Thinkmill) | https://opencollective.com/thinkmill |
+| Open Collective | Up to $100 per engineer, per month | 1-50      | [@OpenCollective](https://github.com/opencollective) | https://opencollective.com/opencollectiveinc |
 
 There are many ways that companies support open source. And there's no one or right way to do it, but having it committed on the budget, makes all the difference. If your company or team has a committed budget for open source, [please submit a PR to be added](https://github.com/BudgetForOpenSource/website/edit/master/README.md).
 
