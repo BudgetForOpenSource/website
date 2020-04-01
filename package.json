@@ -11,7 +11,7 @@
     "@emotion/core": "^10.0.28",
     "@mdx-js/loader": "^1.5.7",
     "@next/mdx": "^9.2.2",
-    "next": "^9.2.2",
+    "next": "^9.3.2",
     "next-ga": "^2.3.4",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
