@@ -1,10 +1,10 @@
-# Budget for Open Source
+# Budget for the Open Source
 
 Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful of individuals. Maintainer burnout is [real and well documented](https://www.google.com/search?q=open+source+burnout).
 
 This is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) – that is, many people benefit but none pay for it.
 
-We believe there is a simple first step that we can take to change this.
+We believe there is a simple first step that we can take to change this. It should be immediate
 
 ### Let's ask our companies to add open source to their budget!
 
@@ -21,6 +21,9 @@ Next, let's tell our companies that having a budget to support the open source p
 Remember, it's ok to start small. The point is to get open source on the company budget. Once it's there, it'll become part of the cost of doing business. This is how companies work, so let's use that to make open source sustainable for the long term.
 
 ---
+**be the change**
+
+IT should be the immediate course 
 
 **Where did this come from?**
 
