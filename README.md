@@ -1,6 +1,6 @@
 # Budget for Open Source
 
-Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful of individuals. Maintainer burnout is [real and well documented](https://www.google.com/search?q=open+source+burnout).
+Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful individuals. Maintainer burnout is [real and well documented](https://www.google.com/search?q=open+source+burnout).
 
 This is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) – that is, many people benefit but none pay for it.
 
@@ -10,7 +10,7 @@ We believe there is a simple first step that we can take to change this.
 
 Sounds boring? It should be. Supporting open source projects we rely on should just be part of the cost of doing business for our companies. And as software engineers, we are in a unique and privileged position to make or shape many budget decisions, whether we're aware of it or not. "We need Slack to work." Poof! we're now paying for slack. "We'd like a training budget so we can learn and improve" Boom! training budgets are now standard. "We want healthy lunches". Voila! quinoa salads everywhere!
 
-Next, let's tell our companies that having a budget to support the open source projects that we (and our companies and products) rely on, is important to us and our jobs. Let's get them added to the budget.
+Next, let's tell our companies that having a budget to support the open source projects that we (and our companies and products) rely on, is important to us and our jobs. Let's get them added to the budget.thanks
 
 **Getting started**
 
