@@ -31,11 +31,12 @@ This initiative was launched at [ReactConfAU 2020](https://reactconfau.com/) by 
 
 Below is a list of companies and teams that have committed line items on their budgets to support open source.
 
-| Company / Team | Description                 | Engineers | GitHub org                                 | OpenCollective                       |
-|----------------|-----------------------------|-----------|--------------------------------------------|--------------------------------------|
-| Thinkmill       | $100 per engineer, per year | 1-50      | [@Thinkmill](https://github.com/Thinkmill) | https://opencollective.com/thinkmill |
-| Open Collective | Up to $100 per engineer, per month | 1-50      | [@OpenCollective](https://github.com/opencollective) | https://opencollective.com/opencollectiveinc |
-| Gitcoin/CodeFund | Up to $100 per engineer, per year | 1-50      | [@Gitcoinco](https://github.com/gitcoinco) | https://opencollective.com/codefund |
+| Company / Team   | Description                        | Engineers | GitHub org                                           | OpenCollective                               |
+|------------------|------------------------------------|-----------|------------------------------------------------------|----------------------------------------------|
+| Thinkmill        | $100 per engineer, per year        | 1-50      | [@Thinkmill](https://github.com/Thinkmill)           | https://opencollective.com/thinkmill         |
+| Open Collective  | Up to $100 per engineer, per month | 1-50      | [@OpenCollective](https://github.com/opencollective) | https://opencollective.com/opencollectiveinc |
+| Gitcoin/CodeFund | Up to $100 per engineer, per year  | 1-50      | [@Gitcoinco](https://github.com/gitcoinco)           | https://opencollective.com/codefund          |
+| Mozilla/bedrock  | Up to $100 per engineer, per year  | 1-50      | [@Mozilla](https://github.com/mozilla/bedrock)       | https://opencollective.com/mozilla           |
 
 There are many ways that companies support open source. And there's no one or right way to do it, but having it committed on the budget, makes all the difference. If your company or team has a committed budget for open source, [please submit a PR to be added](https://github.com/BudgetForOpenSource/website/edit/master/README.md).
 
