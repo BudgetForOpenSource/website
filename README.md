@@ -31,6 +31,7 @@ This initiative was launched at [ReactConfAU 2020](https://reactconfau.com/) by 
 
 Below is a list of companies and teams that have committed line items on their budgets to support open source.
 
+
 | Company / Team | Description                 | Engineers | GitHub org                                 | OpenCollective                       |
 |----------------|-----------------------------|-----------|--------------------------------------------|--------------------------------------|
 | Thinkmill       | $100 per engineer, per year | 1-50      | [@Thinkmill](https://github.com/Thinkmill) | https://opencollective.com/thinkmill |
@@ -42,3 +43,5 @@ There are many ways that companies support open source. And there's no one or ri
 ---
 
 The Budget for Open Source website is open source at https://github.com/BudgetForOpenSource/website
+
+~~ The End ~~
