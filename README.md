@@ -1,4 +1,4 @@
-# Budget for Open Source
+# Budget for Open Source(an amazing website)
 
 Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful of individuals. Maintainer burnout is [real and well documented](https://www.google.com/search?q=open+source+burnout).
 
