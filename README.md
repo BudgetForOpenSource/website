@@ -14,7 +14,7 @@ Next, let's tell our companies that having a budget to support the open source p
 
 **Getting started**
 
-* Ask your company for a budget of $100 per engineer, per year (just an idea, it could be anything, as long as it gets on the company budget, rather than being being a once-off.
+* Ask your company for a budget of $100 per engineer, per year (just an idea, it could be anything, as long as it gets on the company budget, rather than being  a once-off.
 * Take that budget and give it to open source projects that save you time, money, or make your life better somehow.
 * You can do this via Open Collective (they have gift cards), or GitHub sponsorship.
 
