@@ -18,7 +18,7 @@ Next, let's tell our companies that having a budget to support the open source p
 * Take that budget and give it to open source projects that save you time, money, or make your life better somehow.
 * You can do this via Open Collective (they have gift cards), or GitHub sponsorship.
 
-Remember, it's ok to start small. The point is to get open source on the company budget. Once it's there, it'll become part of the cost of doing business. This is how companies work, so let's use that to make open source sustainable for the long term.
+Remember, it's ok to start small. The point is to get open source on the company budget. Once it's there, it'll become part of the cost of doing business. This is how companies work, so let's use that to make open source sustainable website for the long term.
 
 ---
 
