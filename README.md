@@ -6,7 +6,7 @@ This is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_
 
 We believe there is a simple first step that we can take to change this.
 
-### Let's ask our companies to add open source to their budget!
+### Let's ask our companies to add open source to their budget!#######
 
 Sounds boring? It should be. Supporting open source projects we rely on should just be part of the cost of doing business for our companies. And as software engineers, we are in a unique and privileged position to make or shape many budget decisions, whether we're aware of it or not. "We need Slack to work." Poof! we're now paying for slack. "We'd like a training budget so we can learn and improve" Boom! training budgets are now standard. "We want healthy lunches". Voila! quinoa salads everywhere!
 
